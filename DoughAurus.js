@@ -1,8 +1,9 @@
-// Golden Cookie Clicker
-// By RainSlide
-// Automatically click golden cookies and reindeers, won't click wrath cookies.
+// Dough Aurus
+// By Paps
+// Adapted from RainSlide's version: https://rainslide.neocities.org/cookieclicker/GoldenCookieClicker.js
+// Automatically click golden cookies and reindeers, won't click wrath cookies. Will NOT click golden cookies if the cookie storm effect is active.
 // Version 1.0
-// Updated 2022-04-19
+// Created 10/1/2025
 
 // Cookie Clicker: https://orteil.dashnet.org/cookieclicker/
 
